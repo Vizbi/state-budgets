@@ -23,3 +23,10 @@ Data ana analysis of budgets of Indian States
 * [csv files in this repo](/Delhi-Budget)
 * [Delhi Budget](https://app.vizbi.com/#!/public/statebudgets/delhi-budget-2016-17)
 
+
+### West Bengal
+
+*  http://www.cbgaindia.org/policy-update/state-budget-2016-17-west-bengal (PDF)
+* [csv files in this repo](/westbengal-budget)
+* [West Bengal Budget](https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17)
+
