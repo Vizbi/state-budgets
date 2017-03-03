@@ -30,3 +30,19 @@ Data and analysis of budgets of Indian States
 * [csv files in this repo](/westbengal-budget)
 * [https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17](https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17)
 
+### Uttar Pradesh
+
+### Kerala
+
+### Bihar
+
+### Goa
+
+### Arunachal Pradesh
+
+### Sikkim
+
+### Nagaland
+
+
+
