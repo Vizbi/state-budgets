@@ -1,4 +1,4 @@
-Data ana analysis of budgets of Indian States 
+Data and analysis of budgets of Indian States 
 -----------------------------------------------
 
 ### Karnataka
