@@ -20,14 +20,14 @@ Data and analysis of budgets of Indian States
 ### Delhi
 
 * http://www.prsindia.org/administrator/uploads/general/1459248764_Delhi%20Budget%20Analysis%202016-17%20.pdf (PDF)
-* [csv files in this repo](/Delhi-Budget)
+* [csv files in this repo](/Delhi)
 * [https://app.vizbi.com/#!/public/statebudgets/delhi-budget-2016-17](https://app.vizbi.com/#!/public/statebudgets/delhi-budget-2016-17)
 
 
 ### West Bengal
 
 *  http://www.cbgaindia.org/policy-update/state-budget-2016-17-west-bengal (PDF)
-* [csv files in this repo](/westbengal-budget)
+* [csv files in this repo](/westbengal)
 * [https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17](https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17)
 
 ### Uttar Pradesh
@@ -35,6 +35,16 @@ Data and analysis of budgets of Indian States
 ### Kerala
 
 ### Bihar
+
+* http://www.cbgaindia.org/wp-content/uploads/2016/04/Bihar_Budget_Brief_2016-17.pdf (PDF)
+* [csv files of this repo](/Bihar)
+* [https://app.vizbi.com/#!/public/statebudgets/bihar-budget-2016-17](https://app.vizbi.com/#!/public/statebudgets/bihar-budget-2016-17)
+
+### Orissa
+
+* http://www.cbgaindia.org/wp-content/uploads/2016/05/Odisha_Budget_Brief_2016-17.pdf (PDF)
+* [csv files of this repo](/Orissa)
+* [https://app.vizbi.com/#!/public/statebudgets/state-budget-orissa](https://app.vizbi.com/#!/public/statebudgets/state-budget-orissa)
 
 ### Goa
 
