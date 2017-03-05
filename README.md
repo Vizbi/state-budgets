@@ -1,4 +1,4 @@
-Data ana analysis of budgets of Indian States 
+Data and analysis of budgets of Indian States 
 -----------------------------------------------
 
 ### Karnataka
@@ -29,4 +29,20 @@ Data ana analysis of budgets of Indian States
 *  http://www.cbgaindia.org/policy-update/state-budget-2016-17-west-bengal (PDF)
 * [csv files in this repo](/westbengal-budget)
 * [https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17](https://app.vizbi.com/#!/public/statebudgets/west-bengal-budget-2016-17)
+
+### Uttar Pradesh
+
+### Kerala
+
+### Bihar
+
+### Goa
+
+### Arunachal Pradesh
+
+### Sikkim
+
+### Nagaland
+
+
 
